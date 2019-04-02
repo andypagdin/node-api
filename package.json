@@ -20,7 +20,8 @@
     "eslint": "^5.15.3",
     "mocha": "^6.0.2",
     "should": "^13.2.3",
-    "sinon": "^7.3.1"
+    "sinon": "^7.3.1",
+    "supertest": "^4.0.2"
   },
   "nodemonConfig": {
     "restartable": "rs",
